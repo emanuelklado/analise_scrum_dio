@@ -1,1 +1,1 @@
-# analise_scrum_dio
+# Análise crítica - Case de Sucesso - Implementação do Scrum na Sony
